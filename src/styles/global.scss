@@ -1,0 +1,8 @@
+body {
+  background-color: #2f3640;
+  margin: 100px;
+  font-family: 'Poppins', sans-serif;
+  @media (max-width: 599px) {
+      margin: 12px;
+  }
+}
